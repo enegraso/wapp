@@ -108,7 +108,8 @@ try {
         console.log(objRecibe)
         //await axios.post('')
         /* } */
-/*         if (data.message.type === 'chat') {
+        if (data.message.type === 'chat') {
+              const autorcohe = process.env.COHERE
           const paramsar = {
             "model": "embed-multilingual-light-v3.0",
             "inputs": [objRecibe.text],
@@ -134,7 +135,7 @@ try {
             headers: {
               accept: 'application/json',
               'content-type': 'application/json',
-              authorization: 'BEARER XGOFt1rBPNTFCCG08zUlMSjqnToSdN1X4n1G74bk'
+              authorization: autorcohe
             },
             body: JSON.stringify(paramsar)
           }
@@ -150,7 +151,7 @@ try {
               console.log('Error en cohere');
             });
 
-        } */
+        }
         if ((data.message.type === 'ptt' || data.message.type === 'audio')) { // si entra mensaje de audio
           if (excludedPhones.includes(data.message.from)) { // si es de un contacto en exclusion
             console.log("Mensaje de audio para Mi ", data.message.type, "id serial: ", data.message.id._serialized, "destinatario permitido", data.message.from)
@@ -249,7 +250,7 @@ try {
     }
   })
 
-  /* 
+   
   async function enviandoEmail(correo, texto, name, phonenumber, email, web) {
     contentHTML = `
     <h1>Mensaje de Correo Electrónico</h1>
@@ -278,8 +279,7 @@ try {
     console.log(info)
 
   }
- */
-  /* router.get("/", (req,res) => {
+   /* router.get("/", (req,res) => {
       res.status(200).json({message:"BackEnd for Emails - para los formularios de las apps."})
   })
   
