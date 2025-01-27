@@ -13,9 +13,9 @@ const autor = process.env.AUTOR
 
 
 const MSG_VENCE = "🤖 Mensaje de *Bot*: \n\n" +
-    "👋 Hola -NB-! Cómo estás? Aproximadamente en *54 horas* vence tu abono ♾️ *Multivision Play*.\\n" +
+    "👋 Hola -NB-! Cómo estás? Aproximadamente en *60 horas* vence tu abono ♾️ *Mul7ivis1on Play*.\n" +
     "Desearía renovar?\n\n" +
-    "Precio app 📺 $ 5000 + app 📺🎞️🎬📽️🎦🎥 $ 7000, medios de pago: 👉 https://bit.ly/s2kmail 👈.\n" +
+    "Precio app ♾️📺 $ 5000 + app 🐦‍🔥📽️🎞️🎬🎦🎥 $ 7000, medios de pago: 👉 https://bit.ly/s2kmail 👈.\n" +
     "(👆 tap en el enlace y deslizar hacia abajo ⬇️ hasta que 🔄️ actualice) \n\n" +
     "*Envíe comprobante de pago*, luego de hacerlo. \n" +
     "📧 Si se vence la cuenta, se perderá el acceso hasta su regeneración. " +
@@ -28,7 +28,7 @@ const MSG_VENCE = "🤖 Mensaje de *Bot*: \n\n" +
     "Muchas gracias. 🤝"
 
 const MSG_PANEL = "🤖 Mensaje de *Bot*: \n\n" +
-    "👋 Hola -NB-! Cómo estás? Te aviso que en *3 dias* se vence la suscripción de tu *panel ♾️ Multivision Play* \n" +
+    "👋 Hola -NB-! Cómo estás? Te aviso que en *3 dias* se vence la suscripción de tu *panel ♾️ Mul7ivis1on Play*.\n" +
     'Si deseas renovar, adquiriendo 💰 paquete de créditos y, no perder el acceso.\n\n' +
     "*Avisanos si tienes panel 🐦‍🔥📽️*\n\n" +
     "Importes y 💳 medios de pago en el siguiente link: \n" +
@@ -41,7 +41,7 @@ const MSG_PANEL = "🤖 Mensaje de *Bot*: \n\n" +
     'Muchas gracias! 🤝'
 
 const MSG_PANEL_CF = "🤖 Mensaje de *Bot* \n\n" +
-    "👋 Hola -NB-! Cómo estás? Te aviso que en *3 horas* se vence la suscripción de tu panel 📽️🚀🧑‍🚀\n\n" +
+    "👋 Hola -NB-! Cómo estás? Te aviso que en *3 dias* se vence la suscripción de tu panel 📽️🚀🧑‍🚀\n\n" +
     'Si deseas renovar, adquiriendo 💰 paquete de créditos y, no perder el acceso.\n' +
     '\n' +
     "Importes y 💳 medios de pago en el siguiente link: \n" +
@@ -54,7 +54,7 @@ const MSG_PANEL_CF = "🤖 Mensaje de *Bot* \n\n" +
     'Muchas gracias! 🤝'
 
 const MSG_VENCE_CF = "🤖 Mensaje de *Bot* \n\n" +
-    "👋 Hola -NB-! Cómo estás? Te aviso que en, aproximadamente, *3 dias* vence tu email abono mensual 🚀🧑‍🚀.\n" +
+    "👋 Hola -NB-! Cómo estás? Te aviso que en, aproximadamente, *3 dias* vence tu email abono mensual 📽️🚀🧑‍🚀.\n" +
     "Quisieramos saber si desea renovar?\n\n" +
     "*Medios de pago*:\n" +
     "Transferencia *$ -PRE-* a cualquiera de los siguientes alias *CVU*:\n" +
