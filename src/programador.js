@@ -17,7 +17,7 @@ const MSG_VENCE = "🤖 Mensaje de *Bot*: \n\n" +
     "Desearía renovar?\n\n" +
     "Precio app 📺 $ 5000 + app 📺🎞️🎬📽️🎦🎥 $ 7000, medios de pago: 👉 https://bit.ly/s2kmail 👈.\n" +
     "(👆 tap en el enlace y deslizar hacia abajo ⬇️ hasta que 🔄️ actualice) \n\n" +
-    "*Envíe comprobante de pago*, luego de hacerlo. \n" +    "(�� tap en el enlace y deslizar hacia abajo ⬇️ hasta que ��️ actualice) \n\n" +
+    "*Envíe comprobante de pago*, luego de hacerlo. \n" +
     "📧 Si se vence la cuenta, se perderá el acceso hasta su regeneración. " +
     "Renovaciones y Regeneraciones de cuentas *UNICAMENTE EN HORARIO DE ATENCIÓN* \n\n" +
     '🕘 Horario de atención\n' +
